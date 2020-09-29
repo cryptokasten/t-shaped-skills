@@ -1,0 +1,47 @@
+#+TITLE: T-shaped skills
+#+TAGS: cryptokasten, t-shaped-skills, education, learning, career
+#+OPTIONS: ^:nil
+
+[[https://github.com/cryptokasten][file:https://img.shields.io/badge/dynamic/json.svg?url=https://api.github.com/users/cryptokasten&label=Cryptokasten&query=$.public_repos]]
+
+** Другие названия
+
+- T-person
+
+- T-человек
+
+- T-люди
+
+** Описание концепции
+
+[[file:media/t-shaped-skills.png]]
+
+В рамках концепции современный специалист должен обладать следующим
+набором навыков:
+
+1. *Transferable Professional Skills*. Переносимые профессиональные
+   навыки.
+
+   - Понимание сектора и отрасли
+
+   - Межотраслевые технологии и инновации
+
+   - Основные деловые и профессиональные навыки
+
+2. *Transferable Personal Qualities*. Переносимые личные качества.
+   
+   - Критическое мышление и общение
+
+   - Личное предпринимательство и инициатива
+
+   - Самосознание и активное лидерство
+
+3. *Technical Knowledge and Expirience*. Техническое знание и опыт.
+
+** Resources
+
+1. https://ailev.livejournal.com/1459798.html
+
+2. https://en.wikipedia.org/wiki/T-shaped_skills
+
+3. https://stemfoundation.org.uk/asset/resource/%7B3EA5228A-B620-4783-AE91-190F2C182DAA%7D/resource.pdfxs
